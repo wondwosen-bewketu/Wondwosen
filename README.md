@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Lead FullStack developer from Etiopia</h3>
 
 
-<img align="right" alt="Coding" width="500" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnc0dXN0OWIybmZ4cTV5d2lyZzE1MHc5ZTFyMjE2ZnhlajhvdWVpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="500" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2XSBlkY1MfKJzlukBLCIBs&ust=1713272293196000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjDw6eytYUDFQAAAAAdAAAAABAF">
 
 <p align="left"> <img src="https://kohttps://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3zC6wM6lrsvxAvJQ9byuYo&ust=1713271981167000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDiupmxtYUDFQAAAAAdAAAAABAE" /> </p>
 
